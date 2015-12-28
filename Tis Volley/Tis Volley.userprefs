@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\MouseFollow.js">
+    <Files>
+      <File FileName="..\RobotRepair\Assets\Scripts\TitleGUI.js" Line="1" Column="17" />
+      <File FileName="..\RobotRepair\Assets\Scripts\GameMenu.js" Line="1" Column="1" />
+      <File FileName="..\RobotRepair\Assets\Scripts\GameScript.js" Line="51" Column="20" />
+      <File FileName="Assets\DisappearMe.js" Line="1" Column="1" />
+      <File FileName="Assets\MouseFollow.js" Line="16" Column="58" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
